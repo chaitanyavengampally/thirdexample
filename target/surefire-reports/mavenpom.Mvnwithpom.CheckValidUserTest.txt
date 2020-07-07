@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mavenpom.Mvnwithpom.CheckValidUserTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 44.426 s - in mavenpom.Mvnwithpom.CheckValidUserTest
